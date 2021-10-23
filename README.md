@@ -1,0 +1,1 @@
+stuff about functional programming
